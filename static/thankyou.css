@@ -1,0 +1,11 @@
+
+.thank {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    font-weight: 100;
+    font-family: 'Style Script', cursive;
+    align-items: center;
+    height: 50vh;
+    font-size: 4rem;
+}
